@@ -1,5 +1,5 @@
 // Selectors
-const todoInput = document.querySelector(".todo-input");    // variable for input in the list.
+const todoInput = document.querySelector(".todo-input");    // variable for input.
 const todoButton = document.querySelector(".todo-button");  // variable for button
 const todoList = document.querySelector(".todo-list");      // variable for List
 const filterOption = document.querySelector(".filter-todo"); // Variable for Select
